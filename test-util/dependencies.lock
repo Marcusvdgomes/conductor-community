@@ -387,7 +387,7 @@
             "locked": "2.7.16"
         },
         "org.springframework:spring-web": {
-            "locked": "5.3.30"
+            "locked": "6.0.0"
         },
         "org.testcontainers:elasticsearch": {
             "locked": "1.18.3"
