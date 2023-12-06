@@ -28,7 +28,7 @@ dependencies {
 
     implementation "com.google.protobuf:protobuf-java:${revProtoBuf}"
     implementation "com.google.guava:guava:${revGuava}"
-    testImplementation "org.springframework:spring-web"
+    testImplementation "org.springframework:spring-web:6.0.0"
 
     implementation "redis.clients:jedis:${revJedis}"
     implementation "com.netflix.dyno-queues:dyno-queues-redis:${revDynoQueues}"
