@@ -8,7 +8,7 @@ dependencies {
     compileOnly 'org.springframework.boot:spring-boot-starter'
     compileOnly 'org.springframework.boot:spring-boot-test'
     compileOnly 'org.springframework.boot:spring-boot-starter-web'
-    compileOnly "org.springframework:spring-web"
+    compileOnly "org.springframework:spring-web:6.0.0"
 
     implementation "org.apache.commons:commons-lang3:"
     implementation "com.google.guava:guava:${revGuava}"
